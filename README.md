@@ -10,4 +10,13 @@ Manejo de funciones en Python
 
 ![image](https://github.com/user-attachments/assets/8c09f9cc-692b-413a-8493-5ec37234e117)
 
+## Funciones v2
+- Código
+
+![image](https://github.com/user-attachments/assets/6e5c8ec1-ecdf-4bfd-abe0-f36ddd52350c)
+
+- Resultado
+
+![image](https://github.com/user-attachments/assets/9e7a2e68-9011-4578-82cf-10f4083be50e)
+
 
